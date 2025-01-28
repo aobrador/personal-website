@@ -74,7 +74,7 @@ function App() {
                 <div className="grid grid-cols-2 gap-4 opacity-0 animate-fade-in animation-delay-500">
                   <h3 className="text-xl font-normal">
                     <a href="https://google.com" target="_blank" rel="noopener noreferrer" className="hover:opacity-70 transition-opacity">
-                      Rdio
+                      TBD
                     </a>
                   </h3>
                   <div>
