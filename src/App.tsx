@@ -31,7 +31,7 @@ function App() {
                   I've been working as a Data & AI Technical Sales Engineer at IBM for the last {timeAtJob.days} days, {timeAtJob.hours} hours, {timeAtJob.minutes} minutes, and {timeAtJob.seconds} seconds.
                 </p>
                 <p className="text-base text-gray-600 dark:text-gray-400 leading-relaxed opacity-0 animate-fade-in animation-delay-200">
-                  I am based in Miami. Keep up with me on{' '}
+                  I am based in Orlando. Keep up with me on{' '}
                   <a href="https://www.linkedin.com/in/alejandroobrador" target="_blank" rel="noopener noreferrer" className="text-gray-900 dark:text-white hover:opacity-70 transition-opacity">
                     LinkedIn
                   </a>{' '}
