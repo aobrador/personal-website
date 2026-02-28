@@ -71,6 +71,7 @@ function App() {
                     <p className="text-sm text-gray-400">2021-2021</p>
                   </div>
                 </div>
+                {/*
                 <div className="grid grid-cols-2 gap-4 opacity-0 animate-fade-in animation-delay-500">
                   <h3 className="text-xl font-normal">
                     <a href="https://google.com" target="_blank" rel="noopener noreferrer" className="hover:opacity-70 transition-opacity">
@@ -82,6 +83,7 @@ function App() {
                     <p className="text-sm text-gray-400">2014</p>
                   </div>
                 </div>
+                */}
               </div>
             </section>
           </div>
